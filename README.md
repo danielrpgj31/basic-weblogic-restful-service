@@ -1,1 +1,2 @@
-# first-project
+# ORACLE ACS - WebLogic Devlopment Tools & Samples 
+
